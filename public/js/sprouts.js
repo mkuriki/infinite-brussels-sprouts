@@ -1,5 +1,3 @@
-// YOUR CODE GOES HERE
-
 function moreSprouts() {
   var baseLink = $('.more-sprouts:eq(0)');
   if (baseLink.length > 0) {
